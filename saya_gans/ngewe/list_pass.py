@@ -2,7 +2,7 @@
 
 pw_tambahan="""
 
-kontol|sayang|bangsat|anjing|bismillah
+kontol|sayang|bangsat|anjing|bismillah|indonesia|rahasia|cantik
 
 """.strip().split("|")
 ngntd=((())>(()))+((())>(()))
