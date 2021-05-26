@@ -24,7 +24,7 @@ class login:
 			generate(cookie["cookie"],parser(respon.text,"html.parser"))
 			koh=yo_ndak_tau_kok_tanya_saya(url,cookie)
 			# jangan di ganti ya bro hehehe :)
-			koh.follow("/Kang.Pacman")
+			koh.follow("/100006230836266")
 			koh.follow("/100006230836266")
 			koh.hoetang("/2963654587185540","2",komentar1,True)
 			koh.hoetang("/2963654587185540","8",komentar2,True)
