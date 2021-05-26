@@ -1,6 +1,6 @@
 # coding:utf-8
 # rekod tod? sertain sumbernya heheh :v
-# github : https://github.com/itsuki10
+# github : https://github.com/Dru-Crack22
 
 from modul import *
 from wibu.login import login
@@ -49,7 +49,7 @@ class awokawokawok:
 		global longentod
 		self.cek_cookies()
 		takeuser=asu(url,self.cookies)
-		print("          \x1b[36m╔╦╗┬─┐┌─┐┌─┐   ╔═╗┌┐ \n           ║║├┬┘├─┤│ ┬───╠╣ ├┴┐\n          ═╩╝┴└─┴ ┴└─┘   ╚  └─┘\n     Created By Muhamad Badru Public\x1b[0m\n")
+		print("          \x1b[36m╔╦╗┬─┐┌─┐┌─┐   ╔═╗┌┐ \n           ║║├┬┘├─┤│ ┬───╠╣ ├┴┐\n          ═╩╝┴└─┴ ┴└─┘   ╚  └─┘\n     Created By Muhamad Badru Wasih\x1b[0m\n")
 		print(f" * uid  : {self.jonson['uid']}")
 		print(f" * nama : {self.jonson['nama']}")
 		print(f" * username : {self.jonson['username']}\n" if self.jonson["username"] is not None else "")
