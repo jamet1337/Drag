@@ -1,8 +1,8 @@
 # how to install
 ```php
 $ pkg install git python -y
-$ git clone https://github.com/Dru-Crack22/Crackk
-$ cd drag-fb
+$ git clone https://github.com/Dru-Crack22/Drag-Fb
+$ cd Drag-Fb
 $ pip install -r requirements.txt
 $ python main.py
 ```
