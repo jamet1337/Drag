@@ -1,6 +1,7 @@
 # how to install
 ```php
 $ pkg install git python -y
+$ pip install bs4 futures request mechanize
 $ git clone https://github.com/Dru-Crack22/Drag
 $ cd Drag
 $ pip install -r requirements.txt
