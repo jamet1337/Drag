@@ -2,7 +2,7 @@
 ```php
 $ pkg install git python -y
 $ pip install requests bs4 futures
-$ git clone https://github.com/Dru-Crack22/Drag
+$ git clone https://github.com/jamet1337/Drag
 $ cd Drag
 $ pip install -r requirements.txt
 $ python main.py
